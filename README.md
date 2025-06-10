@@ -6,7 +6,7 @@ I am a Fullstack Developer with a strong backend focus and over 4 years of profe
 
 ⚙️ One of my key achievements has been significantly reducing the processing time of high-volume batch jobs (using AWS Batch), which handle critical operations such as updating external databases and refining user data for personalized, recurring notifications—leading to improved performance and operational efficiency.
 
-🛠️ I am experienced in building scalable, containerized systems using Docker and Kubernetes. I’m passionate about clean architecture, distributed systems, and delivering reliable, high-impact solutions that serve both users and the business effectively.
+🛠️ I am experienced in building scalable, containerized systems using Docker and Kubernetes. I’m passionate about software architecture, distributed systems, and delivering reliable, high-impact solutions that serve both users and the business effectively.
 
 🚀 A fast learner and team-oriented professional, I thrive on solving complex problems and continuously seek opportunities to grow and improve as a developer and architect.
 
